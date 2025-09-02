@@ -63,4 +63,4 @@ STEP 6: Use zscore of to remove outliers
 
 
 # Result
-          <<include your Result here>>
+ Thus, we have read the given data and performed data cleaning and saved the cleaned data to a file successfully.         
