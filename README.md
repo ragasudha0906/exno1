@@ -63,4 +63,4 @@ STEP 6: Use zscore of to remove outliers
 
 
 # Result
- Thus, we have read the given data and performed data cleaning and saved the cleaned data to a file successfully.         
+ In this experiment, we carried out data preprocessing and outlier detection on a dataset. First, the required libraries were imported and the dataset was loaded. Data cleaning was performed by checking and handling missing values, removing duplicates, and verifying data types. Outliers were detected using the IQR method and Z-score method, then removed to improve data quality. Finally, a boxplot was used to visualize the outliers, ensuring the dataset was clean and reliable for further analysis.
